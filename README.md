@@ -110,6 +110,9 @@ Record collection weights, quality checks, delivery status, and payment informat
 
 Evaluate performance using farmer earnings, buyer costs, delivery efficiency, and order fulfilment.
 
+<img width="1174" height="2400" alt="sih" src="https://github.com/user-attachments/assets/5f397ae3-1f74-40bd-bed2-77b8e8eb7c1c" />
+
+
 ## Feasibility and Viability
 FarmBridge is feasible as a student software project because it can be developed using open-source technologies such as React, Python FastAPI, and PostgreSQL. The initial prototype can focus on one agricultural region, a few selected crops, and a small group of farmers and buyers. Existing mapping services can be used for delivery planning, reducing development complexity and cost.
 
